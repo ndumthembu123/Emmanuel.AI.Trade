@@ -1,0 +1,2 @@
+# Emmanuel.AI.Trade
+Signals 
